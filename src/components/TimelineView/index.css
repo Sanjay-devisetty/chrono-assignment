@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.timeline-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.chrono-container {
+  width: 80vw;
+  height: 80vh;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-heading {
+  font-family: 'Roboto';
+  color: #171f46;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  line-height: 2.7;
+  margin: 0px;
+}
+
+.span-element {
+  padding-top: 30px;
+  color: #2b237c;
+  margin: 0px;
+}

@@ -1,0 +1,49 @@
+/* Write your CSS here */
+
+.heading-and-duration-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.course-heading {
+  font-family: 'Roboto';
+  color: #171f46;
+  font-size: 18px;
+}
+
+.duration-container {
+  display: flex;
+  align-items: center;
+}
+
+.duration {
+  font-family: 'Roboto';
+  color: #171f46;
+  font-size: 10px;
+  font-weight: bold;
+  padding-top: 2px;
+}
+
+.description {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 15px;
+}
+
+.tag-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.tag-name {
+  font-family: 'Roboto';
+  color: #171f46;
+  font-size: 10px;
+  font-weight: bold;
+  background-color: #bec4cf;
+  margin: 5px;
+  padding: 5px 10px 5px 10px;
+}
